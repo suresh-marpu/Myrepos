@@ -1,3 +1,4 @@
 # Myrepos
 # Table of Contents 
-.Python 
+
+[3.Channel Architect_Assignment.pdf](https://github.com/suresh-marpu/Myrepos/files/7963551/3.Channel.Architect_Assignment.pdf)
